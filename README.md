@@ -21,17 +21,17 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
 
   ## Mon portfolio :globe_with_meridians:
-  https://bernard-vera.github.io/Portfolio/
+  <a href="https://bernard-vera.github.io/Portfolio/" target="_blank">Voir mon portfolio</a>
   <br/>
   <br/>
   <br/>
 
   
   ## Travaux en cours  ⚡
-En ce moment, j'utilise mes nouvelles compétences pour refaire entièrement un de mes anciens sites :  http://clercdhuissier.free.fr <br/>
+En ce moment, j'utilise mes nouvelles compétences pour refaire entièrement un de mes anciens sites :  <a href="http://clercdhuissier.free.fr" target="_blank">Le clerc d'huissier</a> <br/>
 Ce site était démodé, en http, et sans Responsive Design. Le https, les tablettes et les mobiles n'existaient pas lors de sa création. <br/>
 La nouvelle version sera beaucoup plus moderne. Travail en cours.... <br/>
-Vous pouvez voir l'avancée du travail à cette adresse : https://projet-clerc.vercel.app/
+Vous pouvez voir l'avancée du travail à cette adresse : <a href="https://projet-clerc.vercel.app/" target="_blank">Le clerc du commissaire de justice</a>
 <br/>
 <br/>
 
