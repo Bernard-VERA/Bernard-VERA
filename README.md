@@ -1,5 +1,8 @@
-## Hi there 👋
+# ![Bernard VERA](https://github.com/Bernard-VERA/Bernard-VERA/blob/main/Banner.jpg)
 
+## Bonjour et bienvenue 👋
+
+Je suis un développeur web full stack junior. Autodidacte depuis 20 ans, je viens de confirmer ma passion par l'obtention d'une certification RNCP de niveau 5, après avoir suivi une formation en 6 mois chez OpenClassRooms. Vous pourrez trouver ci-desssous quelques unes de mes réalisations. 
 <!--
 **Bernard-VERA/Bernard-VERA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
