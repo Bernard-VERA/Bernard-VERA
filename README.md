@@ -28,10 +28,9 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
   
   ## Travaux en cours  ⚡
-En ce moment, j'utilise mes nouvelles compétences pour refaire entièrement un de mes anciens sites :  <a href="http://clercdhuissier.free.fr" target="_blank">Le clerc d'huissier</a> <br/>
-Ce site était démodé, en http, et sans Responsive Design. Le https, les tablettes et les mobiles n'existaient pas lors de sa création. <br/>
-La nouvelle version sera beaucoup plus moderne. Travail en cours.... <br/>
-Vous pouvez voir l'avancée du travail à cette adresse : <a href="https://projet-clerc.vercel.app/" target="_blank">Le clerc du commissaire de justice</a>
+En ce moment, j'utilise mes nouvelles compétences pour créér le site d'un photographe amateur imaginaire.<br/>
+Il s'agit d'un Portfolio simple et efficace à la fois. Pour cela, j'ai utilisé uniquement HTML et CSS.
+Vous pouvez voir l'avancée du travail à cette adresse : <a href="https://bernard-vera.github.io/Photographe/index.html" target="_blank">Photographe amateur</a>
 <br/>
 <br/>
 
