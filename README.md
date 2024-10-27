@@ -28,9 +28,8 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
   
   ## Travaux en cours  ⚡
-En ce moment, j'utilise mes nouvelles compétences pour créér le site d'un photographe amateur imaginaire.<br/>
-Il s'agit d'un Portfolio simple et efficace à la fois. Pour cela, j'ai utilisé uniquement HTML et CSS.
-Vous pouvez voir l'avancée du travail à cette adresse : <a href="https://bernard-vera.github.io/Photographe/index.html" target="_blank">Photographe amateur</a>
+OCTOBRE 2024 - Lors de ma veille technologique, j'ai découvert qu'on pouvait maintenant effectuer des animations au scroll, directement en CSS. Bien sûr, on peut le faire facilement et depuis longtemps avec javascript, mais pas en CSS. Cela m'a donné envie d'en savoir plus. J'ai donc décidé de créer ce site afin de découvrir cette nouvelle technologie. S'agissant d'une fonctionnalité expérimentale, elle n'est pas encore supportée par tous les navigateurs : Firefox et Safari ne sont pas encore compatibles, mais cela ne saurait tarder.
+Une des principales compétences des développeurs est de savoir s'adapter aux nouvelles technologies. Pas encore de cours sur cette fonctionnalité. Il faut donc chercher les documentations et tutoriels sur le web. Il faut chercher ce qui fonctionne, voir ce qui ne marche pas, essayer avec le Responsive Design. Ce projet est en cours de construction. Vous pouvez voir la progression sur le site en ligne. <a href="https://bernard-vera.github.io/Agence-Web/" target="_blank">Agence Web BV</a>
 <br/>
 <br/>
 
