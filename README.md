@@ -28,8 +28,15 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
   
   ## Travaux en cours  ⚡
-OCTOBRE 2024 - Lors de ma veille technologique, j'ai découvert qu'on pouvait maintenant effectuer des animations au scroll, directement en CSS. Bien sûr, on peut le faire facilement et depuis longtemps avec javascript, mais pas en CSS. Cela m'a donné envie d'en savoir plus. J'ai donc décidé de créer ce site afin de découvrir cette nouvelle technologie. S'agissant d'une fonctionnalité expérimentale, elle n'est pas encore supportée par tous les navigateurs : Firefox et Safari ne sont pas encore compatibles, mais cela ne saurait tarder.
-Une des principales compétences des développeurs est de savoir s'adapter aux nouvelles technologies. Pas encore de cours sur cette fonctionnalité. Il faut donc chercher les documentations et tutoriels sur le web. Il faut chercher ce qui fonctionne, voir ce qui ne marche pas, essayer avec le Responsive Design. Ce projet est en cours de construction. Vous pouvez voir la progression sur le site en ligne. <a href="https://bernard-vera.github.io/Agence-Web/" target="_blank">Agence Web BV</a>
+**NOVEMBRE 2024 - TO-DO LIST**<br/>
+La plupart des profils de Développeurs Web contiennent un projet de To-Do List. Je me conforme donc à ce qui semble être une règle dans ce domaine, en me lançant dans la création d'une To-Do List.
+Créer une To-do List permet de réviser les bases du Javascript :
+*Création d'éléments dynamiquement avec "document.createElement".
+*Modification de l'interface utilisateur avec "appendChild", "removeChild", "innerText"
+*Apprendre à ajouter des écouteurs d'événements avec "addEventListener" pour capturer les interactions utilisateur comme les clics et les entrées clavier.
+*Apprendre à utiliser le stockage local du navigateur (localStorage) pour sauvegarder les tâches de manière persistante.
+*Gérer les données sous forme de tableaux et d'objets pour stocker les informations des tâches
+<a href="https://bernard-vera.github.io/Agence-Web/" target="_blank">Agence Web BV</a>
 <br/>
 <br/>
 
