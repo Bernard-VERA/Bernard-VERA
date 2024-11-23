@@ -29,13 +29,13 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
   
   ## Travaux en cours  ⚡
 **NOVEMBRE 2024 - TO-DO LIST**<br/>
-La plupart des profils de Développeurs Web contiennent un projet de To-Do List. Je me conforme donc à ce qui semble être une règle dans ce domaine, en me lançant dans la création d'une To-Do List.
+La plupart des profils de Développeurs Web contiennent un projet de To-Do List. Je me conforme donc à ce qui semble être une règle dans ce domaine, en me lançant dans la création d'une To-Do List.<br/>
 Créer une To-do List permet de réviser les bases du Javascript :<br/>
-*Création d'éléments dynamiquement avec "document.createElement".<br/>
-*Modification de l'interface utilisateur avec "appendChild", "removeChild", "innerText"<br/>
-*Apprendre à ajouter des écouteurs d'événements avec "addEventListener" pour capturer les interactions utilisateur comme les clics et les entrées clavier.<br/>
-*Apprendre à utiliser le stockage local du navigateur (localStorage) pour sauvegarder les tâches de manière persistante.<br/>
-*Gérer les données sous forme de tableaux et d'objets pour stocker les informations des tâches<br/>
+- Création d'éléments dynamiquement avec "document.createElement".<br/>
+- Modification de l'interface utilisateur avec "appendChild", "removeChild", "innerText".<br/>
+- Apprendre à ajouter des écouteurs d'événements avec "addEventListener" pour capturer les interactions utilisateur comme les clics et les entrées clavier.<br/>
+- Apprendre à utiliser le stockage local du navigateur (localStorage) pour sauvegarder les tâches de manière persistante.<br/>
+- Gérer les données sous forme de tableaux et d'objets pour stocker les informations des tâches.<br/><br/>
 Vous pouvez suivre l'avancée du projet sur : 
 <a href="https://bernard-vera.github.io/Simple-To-Do-List/" target="_blank">To-Do List</a>
 <br/>
