@@ -28,16 +28,19 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
   
   ## Travaux en cours  ⚡
-**NOVEMBRE 2024 - TO-DO LIST**<br/>
-La plupart des profils de Développeurs Web contiennent un projet de To-Do List. Je me conforme donc à ce qui semble être une règle dans ce domaine, en me lançant dans la création d'une To-Do List.<br/>
-Créer une To-do List permet de réviser les bases du Javascript :<br/>
-- Création d'éléments dynamiquement avec "document.createElement".<br/>
-- Modification de l'interface utilisateur avec "appendChild", "removeChild", "innerText".<br/>
-- Apprendre à ajouter des écouteurs d'événements avec "addEventListener" pour capturer les interactions utilisateur comme les clics et les entrées clavier.<br/>
-- Apprendre à utiliser le stockage local du navigateur (localStorage) pour sauvegarder les tâches de manière persistante.<br/>
-- Gérer les données sous forme de tableaux et d'objets pour stocker les informations des tâches.<br/><br/>
+**DECEMBRE 2024 - JEU DU MORPION**<br/>
+Un jeu de Morpion simple, réalisé en HTML, CSS et JavaScript. Pour la première fois, j’ai utilisé l’intelligence artificielle, en l’occurrence COPILOT, pour écrire le fichier Javascript. J’ai trouvé que cela facilite grandement le travail, et apporte un gain de temps appréciable.<br/>
+La création de ce jeu m’a permis d’améliorer mes compétences techniques et logiques : :<br/>
+- Découverte du travail avec l’aide de l’intelligence artificielle.<br/>
+- Compréhension approfondie des bases de JavaScript pour rendre le jeu interactif (variables, fonctions, boucles, conditions).<br/>
+- Utilisation des événements pour interagir avec l'interface utilisateur.<br/>
+- Conception de la logique du jeu (définir les règles, vérifier les combinaisons gagnantes).<br/>
+- Gestion des tours et des conditions de victoire ou d'égalité.<br/>
+- Mise en place d'une interface utilisateur conviviale et esthétique avec HTML et CSS.<br/>
+- Tests pour s'assurer que le jeu fonctionne comme prévu dans différents navigateurs et sur différentes tailles d'écran.<br/>
+<br/>
 Vous pouvez suivre l'avancée du projet sur : 
-<a href="https://bernard-vera.github.io/Simple-To-Do-List/" target="_blank">To-Do List</a>
+<a href="https://bernard-vera.github.io/Tic-tac-toe/" target="_blank">To-Do List</a>
 <br/>
 <br/>
 
