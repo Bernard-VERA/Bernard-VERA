@@ -28,19 +28,19 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
   
   ## Travaux en cours  ⚡
-**DECEMBRE 2024 - JEU DU MORPION**<br/>
-Un jeu de Morpion simple, réalisé en HTML, CSS et JavaScript. Pour la première fois, j’ai utilisé l’intelligence artificielle, en l’occurrence COPILOT, pour écrire le fichier Javascript. J’ai trouvé que cela facilite grandement le travail, et apporte un gain de temps appréciable.<br/>
-La création de ce jeu m’a permis d’améliorer mes compétences techniques et logiques :<br/>
-- Découverte du travail avec l’aide de l’intelligence artificielle.<br/>
-- Compréhension approfondie des bases de JavaScript pour rendre le jeu interactif (variables, fonctions, boucles, conditions).<br/>
+**JANVIER 2025 - BULLETIN DE SALAIRE**<br/>
+Un BULLETIN DE SALAIRE simple, réalisé en HTML, CSS et JavaScript. Un formulaire dans lequel il faut entrer toutes les informations requises, qui permettra d'éditer, puis d'imprimer le bulletin de salaire d'une assistante maternelle. Le calcul des montants et cotisations se fera automatiquement.<br/>
+La création de ce site me permettra d’améliorer mes compétences techniques et logiques :<br/>
+- Compréhension approfondie des bases de JavaScript pour rendre le site interactif<br/>
 - Utilisation des événements pour interagir avec l'interface utilisateur.<br/>
-- Conception de la logique du jeu (définir les règles, vérifier les combinaisons gagnantes).<br/>
-- Gestion des tours et des conditions de victoire ou d'égalité.<br/>
+- Conception de la logique du bulletin de salaire (définir les rubriques, fixer les bases et les taux des cotisations, vérifier les résultats).<br/>
+- Formulations complexes pour calculer les sommes et montants automatiquement.<br/>
 - Mise en place d'une interface utilisateur conviviale et esthétique avec HTML et CSS.<br/>
+- S'agissant de formulaires, mise en place d'une sécurité contre les attaques XSS.<br/>
 - Tests pour s'assurer que le jeu fonctionne comme prévu dans différents navigateurs et sur différentes tailles d'écran.<br/>
 <br/>
 Vous pouvez suivre l'avancée du projet sur : 
-<a href="https://bernard-vera.github.io/Tic-tac-toe/" target="_blank">Jeu du Morpion</a>
+<a href="https://bernard-vera.github.io/Projet-Salaire/" target="_blank">Bulletin de salaire</a>
 <br/>
 <br/>
 
