@@ -35,8 +35,12 @@ La création de ce site me permettra d’améliorer mes compétences techniques 
 - Utilisation des événements pour interagir avec l'interface utilisateur.<br/>
 - Conception de la logique du bulletin de salaire (définir les rubriques, fixer les bases et les taux des cotisations, vérifier les résultats).<br/>
 - Formulations complexes pour calculer les sommes et montants automatiquement.<br/>
-- Mise en place d'une interface utilisateur conviviale et esthétique avec HTML et CSS.<br/>
+- Mise en place d'une interface utilisateur simple et esthétique avec HTML et CSS.<br/>
 - S'agissant de formulaires, mise en place d'une sécurité contre les attaques XSS.<br/>
+- Mise en place d'un jeton CSRF unique dans le local storage, pour la sécurité.<br/>
+- Validation des champs des formulaires.<br/>
+- Utilisation de html2canvas pour créér une image PNG du bulletin de salaire.<br/>
+- Utilisation de jsPDF pour convertir cette image en fichier PDF imprimable.<br/>
 - Tests pour s'assurer que le site fonctionne comme prévu dans différents navigateurs et sur différentes tailles d'écran.<br/>
 <br/>
 Vous pouvez suivre l'avancée du projet sur : 
