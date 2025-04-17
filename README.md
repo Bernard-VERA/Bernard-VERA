@@ -26,11 +26,16 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
   <br/>
   <br/>
 
+
+  ## Projet en cours  ⚡
+**AVRIL 2025 - Un nouveau portfolio**<br/>
+Pas encore disponible en ligne. Site en cours de construction. (Repo : Portfolio2)
   
-  ## Travaux en cours  ⚡
-**JANVIER 2025 - BULLETIN DE SALAIRE**<br/>
+  ## Dernier projet réalisé  ⚡
+**MARS 2025 - GENERATEUR DE BULLETIN DE SALAIRE**<br/>
 Un BULLETIN DE SALAIRE simple, réalisé en HTML, CSS et JavaScript. Un formulaire dans lequel il faut entrer toutes les informations requises, qui permettra d'éditer, puis d'imprimer le bulletin de salaire d'une assistante maternelle. Le calcul des montants et cotisations se fera automatiquement.<br/><br/>
-La création de ce site me permettra d’améliorer mes compétences techniques et logiques :<br/>
+La création de ce site m'a permis d’améliorer mes compétences techniques et logiques :<br/>
+- Page d'accueil intuitive et moderne
 - Compréhension approfondie des bases de JavaScript pour rendre le site interactif<br/>
 - Utilisation des événements pour interagir avec l'interface utilisateur.<br/>
 - Conception de la logique du bulletin de salaire (définir les rubriques, fixer les bases et les taux des cotisations, vérifier les résultats).<br/>
@@ -44,7 +49,7 @@ La création de ce site me permettra d’améliorer mes compétences techniques 
 - Tests pour s'assurer que le site fonctionne comme prévu dans différents navigateurs et sur différentes tailles d'écran.<br/>
 <br/>
 Vous pouvez suivre l'avancée du projet sur : 
-<a href="https://bernard-vera.github.io/Projet-Salaire/" target="_blank">Bulletin de salaire</a>
+<a href="https://bernard-vera.github.io/Projet-Salaire/" target="_blank">Générateur de bulletin de salaire</a>
 <br/>
 <br/>
 
