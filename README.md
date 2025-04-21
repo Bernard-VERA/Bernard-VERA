@@ -31,7 +31,7 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
 
   ## Projet en cours  ⚡
-**AVRIL 2025 - Mon nouveau portfolio**<br/>
+**AVRIL 2025 - CREATION D'UN NOUVEAU PORTFOLIO**<br/>
 Un nouveau Portfolio, réalisé en React.<br/>
 Il devrait être plus moderne, avec un mode clair/sombre et des animations.<br/>
 Les compétences et les projets seront plus détaillés.<br/>
