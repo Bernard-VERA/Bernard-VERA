@@ -15,7 +15,10 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
   ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
   ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) <br/>
+  ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+  ![image](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=FFFFFF)
+  ![image](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
+  ![image](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)<br/>
   <br/>
   <br/>
 
@@ -28,12 +31,12 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
 
   ## Projet en cours  ⚡
-**AVRIL 2025 - Un nouveau portfolio**<br/>
-Pas encore disponible en ligne. Site en cours de construction. (Repo : Portfolio2)
+**AVRIL 2025 - Mon nouveau portfolio**<br/>
+Un nouveau Portfolio, réalisé en React. Il devrait être plus moderne, avec un mode clair/sombre et des animations. Les compétences et les projets seront plus détaillés.
   
   ## Dernier projet réalisé  ⚡
 **MARS 2025 - GENERATEUR DE BULLETIN DE SALAIRE**<br/>
-Un BULLETIN DE SALAIRE simple, réalisé en HTML, CSS et JavaScript. Un formulaire dans lequel il faut entrer toutes les informations requises, qui permettra d'éditer, puis d'imprimer le bulletin de salaire d'une assistante maternelle. Le calcul des montants et cotisations se fera automatiquement.<br/><br/>
+Un BULLETIN DE SALAIRE simple, réalisé en HTML, CSS et JavaScript. Un formulaire dans lequel il faut entrer toutes les informations requises, qui permet d'éditer, puis d'imprimer le bulletin de salaire d'une assistante maternelle. Le calcul des montants et cotisations se font automatiquement.<br/><br/>
 La création de ce site m'a permis d’améliorer mes compétences techniques et logiques :<br/>
 - Page d'accueil intuitive et moderne
 - Compréhension approfondie des bases de JavaScript pour rendre le site interactif<br/>
@@ -48,7 +51,7 @@ La création de ce site m'a permis d’améliorer mes compétences techniques et
 - Utilisation de jsPDF pour convertir cette image en fichier PDF imprimable.<br/>
 - Tests pour s'assurer que le site fonctionne comme prévu dans différents navigateurs et sur différentes tailles d'écran.<br/>
 <br/>
-Vous pouvez suivre l'avancée du projet sur : 
+Vous pouvez voir le projet sur : 
 <a href="https://bernard-vera.github.io/Projet-Salaire/" target="_blank">Générateur de bulletin de salaire</a>
 <br/>
 <br/>
