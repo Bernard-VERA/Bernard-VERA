@@ -16,9 +16,9 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
   ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-  ![image](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=FFFFFF)
-  ![image](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
-  ![image](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)<br/>
+  ![image](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=FFFFFF)
+  ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
+  ![image](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)<br/>
   <br/>
   <br/>
 
@@ -32,8 +32,16 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
   ## Projet en cours  ⚡
 **AVRIL 2025 - Mon nouveau portfolio**<br/>
-Un nouveau Portfolio, réalisé en React. Il devrait être plus moderne, avec un mode clair/sombre et des animations. Les compétences et les projets seront plus détaillés.
-  
+Un nouveau Portfolio, réalisé en React.<br/>
+Il devrait être plus moderne, avec un mode clair/sombre et des animations.<br/>
+Les compétences et les projets seront plus détaillés.<br/>
+Il sera hébergé sur VERCEL
+ <br/>
+ Vous pouvez suivre l'évolution du projet sur : 
+<a href="https://portfolio-psi-five-17.vercel.app/" target="_blank">Mon nouveau Portfolio</a>
+<br/>
+<br/>
+<br/> 
   ## Dernier projet réalisé  ⚡
 **MARS 2025 - GENERATEUR DE BULLETIN DE SALAIRE**<br/>
 Un BULLETIN DE SALAIRE simple, réalisé en HTML, CSS et JavaScript. Un formulaire dans lequel il faut entrer toutes les informations requises, qui permet d'éditer, puis d'imprimer le bulletin de salaire d'une assistante maternelle. Le calcul des montants et cotisations se font automatiquement.<br/><br/>
