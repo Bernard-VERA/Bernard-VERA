@@ -38,7 +38,7 @@ Les compétences et les projets seront plus détaillés.<br/>
 Il sera hébergé sur VERCEL
  <br/>
  Vous pouvez suivre l'évolution du projet sur : 
-<a href="https://portfolio-psi-five-17.vercel.app/" target="_blank">Mon nouveau Portfolio</a>
+<a href="https://bv-portfolio.vercel.app/" target="_blank">Mon nouveau Portfolio</a>
 <br/>
 <br/>
 <br/> 
