@@ -24,24 +24,13 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
 
   ## Mon portfolio :globe_with_meridians:
-  <a href="https://bernard-vera.github.io/Portfolio/" target="_blank">Voir mon portfolio</a>
+  <a href="https://bv-portfolio.vercel.app/" target="_blank">Voir mon portfolio</a>
   <br/>
   <br/>
   <br/>
 
 
-  ## Projet en cours  ⚡
-**AVRIL 2025 - CREATION D'UN NOUVEAU PORTFOLIO**<br/>
-Un nouveau Portfolio, réalisé en React.<br/>
-Il devrait être plus moderne, avec un mode clair/sombre et des animations.<br/>
-Les compétences et les projets seront plus détaillés.<br/>
-Il sera hébergé sur VERCEL
- <br/>
- Vous pouvez suivre l'évolution du projet sur : 
-<a href="https://bv-portfolio.vercel.app/" target="_blank">Mon nouveau Portfolio</a>
-<br/>
-<br/>
-<br/> 
+
   ## Dernier projet réalisé  ⚡
 **MARS 2025 - GENERATEUR DE BULLETIN DE SALAIRE**<br/>
 Un BULLETIN DE SALAIRE simple, réalisé en HTML, CSS et JavaScript. Un formulaire dans lequel il faut entrer toutes les informations requises, qui permet d'éditer, puis d'imprimer le bulletin de salaire d'une assistante maternelle. Le calcul des montants et cotisations se font automatiquement.<br/><br/>
