@@ -32,6 +32,14 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
   <br/>
 
 
+## Projet en cours de réalisation:
+**PréviMétéo3**<br/>
+C'est une application météo moderne permettant aux utilisateurs de consulter des prévisions météorologiques précises, sur 3 jours. Développée avec React et Vite, elle exploite les API Open-Meteo Forecast pour la localisation des villes, et Open-Meteo Weather pour fournir des données météorologiques actualisées et fiables. Ce projet requiert une maîtrise des technologies modernes du web et une capacité à surmonter des défis techniques liés à l'intégration d'API et à l'optimisation des performances.
+<br/>
+Vous pouvez voir le projet sur : 
+<a href="https://previmeteo.vercel.app/" target="_blank">PréviMétéo</a>
+<br/>
+<br/>
 
   ## Dernier projet réalisé  ⚡
 **MARS 2025 - GENERATEUR DE BULLETIN DE SALAIRE**<br/>
