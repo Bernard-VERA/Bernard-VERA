@@ -35,7 +35,7 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
 ## Projet en cours de réalisation ⚡
 <br/>
-**Boutique Kingsmen**<br/>
+BOUTIQUE KINGSMEN<br/>
 Création de la page d'accueil d'une boutique de vêtements pour hommes à Marseille : KINGSMEN (Boutique imaginaire).<br/>
 Le but est de mettre en place un design moderne et agréable, ainsi qu'un site fluide et fonctionnel, pour inciter le visiteur à en savoir plus.<br/>
 Il faut montrer au visiteur le sérieux et l'expérience du personnel de la boutique, ainsi que la qualité des produits.<br/>
@@ -43,13 +43,13 @@ L'intention est de convaincre le visiteur de venir à la boutique et d'acheter d
 <br/>
 <br/>
 Vous pouvez suivre l'avancée du projet sur : 
-<a href="https://bernard-vera.github.io/boutique-kingsmen/" target="_blank">PréviMétéo</a>
+<a href="https://bernard-vera.github.io/boutique-kingsmen/" target="_blank">Boutique KINGSMEN</a>
 <br/>
 <br/>
 
 ## Dernier projet réalisé 
 <br/>
-**MAI 2025 - PREVIMETEO3**<br/>
+MAI 2025 - PREVIMETEO3<br/>
 C'est une application météo moderne permettant aux utilisateurs de consulter des prévisions météorologiques précises, sur 3 jours. Développée avec React et Vite, elle exploite les API Open-Meteo Forecast pour la localisation des villes, et Open-Meteo Weather pour fournir des données météorologiques actualisées et fiables. Ce projet requiert une maîtrise des technologies modernes du web et une capacité à surmonter des défis techniques liés à l'intégration d'API et à l'optimisation des performances.Le design a été pensé Mobile First, pour s'adapter aux usages modernes.
 <br/>
 <br/>
