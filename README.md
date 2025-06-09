@@ -26,6 +26,7 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
 
   ## Mon portfolio :globe_with_meridians:
+  <br/>
   <a href="https://bv-portfolio.vercel.app/" target="_blank">Voir mon portfolio</a>
   <br/>
   <br/>
@@ -33,34 +34,27 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
 
 ## Projet en cours de réalisation ⚡
-**PréviMétéo3**<br/>
-C'est une application météo moderne permettant aux utilisateurs de consulter des prévisions météorologiques précises, sur 3 jours. Développée avec React et Vite, elle exploite les API Open-Meteo Forecast pour la localisation des villes, et Open-Meteo Weather pour fournir des données météorologiques actualisées et fiables. Ce projet requiert une maîtrise des technologies modernes du web et une capacité à surmonter des défis techniques liés à l'intégration d'API et à l'optimisation des performances.
+<br/>
+**Boutique Kingsmen**<br/>
+Création de la page d'accueil d'une boutique de vêtements pour hommes à Marseille : KINGSMEN (Boutique imaginaire).<br/>
+Le but est de mettre en place un design moderne et agréable, ainsi qu'un site fluide et fonctionnel, pour inciter le visiteur à en savoir plus.<br/>
+Il faut montrer au visiteur le sérieux et l'expérience du personnel de la boutique, ainsi que la qualité des produits.<br/>
+L'intention est de convaincre le visiteur de venir à la boutique et d'acheter des produits KINGSMEN.
+<br/>
+<br/>
+Vous pouvez suivre l'avancée du projet sur : 
+<a href="https://bernard-vera.github.io/boutique-kingsmen/" target="_blank">PréviMétéo</a>
+<br/>
+<br/>
+
+## Dernier projet réalisé 
+<br/>
+**MAI 2025 - PREVIMETEO3**<br/>
+C'est une application météo moderne permettant aux utilisateurs de consulter des prévisions météorologiques précises, sur 3 jours. Développée avec React et Vite, elle exploite les API Open-Meteo Forecast pour la localisation des villes, et Open-Meteo Weather pour fournir des données météorologiques actualisées et fiables. Ce projet requiert une maîtrise des technologies modernes du web et une capacité à surmonter des défis techniques liés à l'intégration d'API et à l'optimisation des performances.Le design a été pensé Mobile First, pour s'adapter aux usages modernes.
 <br/>
 <br/>
 Vous pouvez voir le projet sur : 
 <a href="https://previmeteo.vercel.app/" target="_blank">PréviMétéo</a>
-<br/>
-<br/>
-
-  ## Dernier projet réalisé  
-**MARS 2025 - GENERATEUR DE BULLETIN DE SALAIRE**<br/>
-Un BULLETIN DE SALAIRE simple, réalisé en HTML, CSS et JavaScript. Un formulaire dans lequel il faut entrer toutes les informations requises, qui permet d'éditer, puis d'imprimer le bulletin de salaire d'une assistante maternelle. Le calcul des montants et cotisations se font automatiquement.<br/><br/>
-La création de ce site m'a permis d’améliorer mes compétences techniques et logiques :<br/>
-- Page d'accueil intuitive et moderne
-- Compréhension approfondie des bases de JavaScript pour rendre le site interactif<br/>
-- Utilisation des événements pour interagir avec l'interface utilisateur.<br/>
-- Conception de la logique du bulletin de salaire (définir les rubriques, fixer les bases et les taux des cotisations, vérifier les résultats).<br/>
-- Formulations complexes pour calculer les sommes et montants automatiquement.<br/>
-- Mise en place d'une interface utilisateur simple et esthétique avec HTML et CSS.<br/>
-- S'agissant de formulaires, mise en place d'une sécurité contre les attaques XSS.<br/>
-- Mise en place d'un jeton CSRF unique dans le local storage, pour la sécurité.<br/>
-- Validation des champs des formulaires.<br/>
-- Utilisation de html2canvas pour créér une image PNG du bulletin de salaire.<br/>
-- Utilisation de jsPDF pour convertir cette image en fichier PDF imprimable.<br/>
-- Tests pour s'assurer que le site fonctionne comme prévu dans différents navigateurs et sur différentes tailles d'écran.<br/>
-<br/>
-Vous pouvez voir le projet sur : 
-<a href="https://bernard-vera.github.io/Projet-Salaire/" target="_blank">Générateur de bulletin de salaire</a>
 <br/>
 <br/>
 
