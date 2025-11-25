@@ -37,16 +37,20 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
 ## Projet en cours de réalisation ⚡
 <br/>
-BOUTIQUE KINGSMEN
+TIC-TAC-TOE DELUXE<br/>
+Objectifs du projet<br/>
+* Créer un jeu simple mais captivant, accessible depuis le navigateur<br/>
+* Expérimenter avec des outils modernes de développement front-end<br/>
+* Mettre en pratique des concepts d’IA appliqués aux jeux classiques<br/>
 <br/>
-Création de la page d'accueil d'une boutique de vêtements pour hommes à Marseille : KINGSMEN (Boutique imaginaire).<br/>
-Le but est de mettre en place un design moderne et agréable, ainsi qu'un site fluide et fonctionnel, pour inciter le visiteur à en savoir plus. Il faut montrer au visiteur le sérieux et l'expérience du personnel de la boutique, ainsi que la qualité des produits.
-<br/>
-L'intention est de convaincre le visiteur de venir à la boutique et d'acheter des produits KINGSMEN.
-<br/>
+Tic-Tac-Toe Deluxe est une version moderne et interactive du célèbre jeu du morpion. 
+Tu peux y jouer contre un ami en mode 2 joueurs, ou défier l’IA en choisissant différents niveaux de difficulté :<br/>
+* Moyen : IA classique<br/>
+* Pro : IA imbattable grâce à l’algorithme Minimax<br/>
+Ce projet a été conçu pour allier simplicité, performance et plaisir de jeu, tout en mettant en avant des technologies modernes de développement web.<br/>
 <br/>
 Vous pouvez suivre l'avancée du projet sur : 
-<a href="https://bernard-vera.github.io/boutique-kingsmen/" target="_blank">Boutique KINGSMEN</a>
+
 <br/>
 <br/>
 <br/>
@@ -54,13 +58,16 @@ Vous pouvez suivre l'avancée du projet sur :
 
 ## Dernier projet réalisé 
 <br/>
-MAI 2025 - PREVIMETEO3
+JUIN 2025 - BOUTIQUE KINGSMEN
 <br/>
-C'est une application météo moderne permettant aux utilisateurs de consulter des prévisions météorologiques précises, sur 3 jours. Développée avec React et Vite, elle exploite les API Open-Meteo Forecast pour la localisation des villes, et Open-Meteo Weather pour fournir des données météorologiques actualisées et fiables. Ce projet requiert une maîtrise des technologies modernes du web et une capacité à surmonter des défis techniques liés à l'intégration d'API et à l'optimisation des performances. Le design a été pensé Mobile First, pour s'adapter aux usages modernes.
+Création de la page d'accueil d'une boutique de vêtements pour hommes à Marseille : KINGSMEN (Boutique imaginaire).<br/>
+Le but est de mettre en place un design moderne et agréable, ainsi qu'un site fluide et fonctionnel, pour inciter le visiteur à en savoir plus. Il faut montrer au visiteur le sérieux et l'expérience du personnel de la boutique, ainsi que la qualité des produits.
+<br/>
+L'intention est de convaincre le visiteur de venir à la boutique et d'acheter des produits KINGSMEN.
 <br/>
 <br/>
 Vous pouvez voir le projet sur : 
-<a href="https://previmeteo.vercel.app/" target="_blank">PréviMétéo</a>
+<a href="https://bernard-vera.github.io/boutique-kingsmen/" target="_blank">Boutique KINGSMEN</a>
 <br/>
 <br/>
 
