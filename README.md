@@ -37,11 +37,14 @@ Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de c
 
 ## Projet en cours de réalisation ⚡
 <br/>
-TIC-TAC-TOE DELUXE<br/>
+OCTOBRE 2025 - TIC-TAC-TOE DELUXE<br/>
+<br/>
 Objectifs du projet<br/>
 * Créer un jeu simple mais captivant, accessible depuis le navigateur<br/>
 * Expérimenter avec des outils modernes de développement front-end<br/>
 * Mettre en pratique des concepts d’IA appliqués aux jeux classiques<br/>
+<br/>
+Description<br/>
 <br/>
 Tic-Tac-Toe Deluxe est une version moderne et interactive du célèbre jeu du morpion. 
 Tu peux y jouer contre un ami en mode 2 joueurs, ou défier l’IA en choisissant différents niveaux de difficulté :<br/>
@@ -49,8 +52,7 @@ Tu peux y jouer contre un ami en mode 2 joueurs, ou défier l’IA en choisissan
 * Pro : IA imbattable grâce à l’algorithme Minimax<br/>
 Ce projet a été conçu pour allier simplicité, performance et plaisir de jeu, tout en mettant en avant des technologies modernes de développement web.<br/>
 <br/>
-Vous pouvez suivre l'avancée du projet sur : 
-
+Vous pouvez suivre l'avancée du projet sur : <a href="https://tic-tac-toe-deluxe-kappa.vercel.app/" target="_blank">Tic-Tac-Toe Deluxe</a>
 <br/>
 <br/>
 <br/>
@@ -66,8 +68,7 @@ Le but est de mettre en place un design moderne et agréable, ainsi qu'un site f
 L'intention est de convaincre le visiteur de venir à la boutique et d'acheter des produits KINGSMEN.
 <br/>
 <br/>
-Vous pouvez voir le projet sur : 
-<a href="https://bernard-vera.github.io/boutique-kingsmen/" target="_blank">Boutique KINGSMEN</a>
+Vous pouvez voir le projet sur : <a href="https://bernard-vera.github.io/boutique-kingsmen/" target="_blank">Boutique KINGSMEN</a>
 <br/>
 <br/>
 
