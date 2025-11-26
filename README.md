@@ -52,7 +52,7 @@ Tu peux y jouer contre un ami en mode 2 joueurs, ou défier l’IA en choisissan
 * Pro : IA imbattable grâce à l’algorithme Minimax<br/>
 Ce projet a été conçu pour allier simplicité, performance et plaisir de jeu, tout en mettant en avant des technologies modernes de développement web.<br/>
 <br/>
-Vous pouvez suivre l'avancée du projet sur : <a href="https://tic-tac-toe-deluxe-kappa.vercel.app/" target="_blank">Tic-Tac-Toe Deluxe</a>
+Vous pouvez suivre l'avancée du projet sur : <a href="https://bv-tic-tac-toe-deluxe.vercel.app/" target="_blank">Tic-Tac-Toe Deluxe</a>
 <br/>
 <br/>
 <br/>
