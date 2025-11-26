@@ -45,7 +45,7 @@ Objectifs du projet<br/>
 * Mettre en pratique des concepts d’IA appliqués aux jeux classiques<br/>
 <br/>
 Description<br/>
-<br/>
+
 Tic-Tac-Toe Deluxe est une version moderne et interactive du célèbre jeu du morpion. 
 Tu peux y jouer contre un ami en mode 2 joueurs, ou défier l’IA en choisissant différents niveaux de difficulté :<br/>
 * Moyen : IA classique<br/>
@@ -60,11 +60,11 @@ Vous pouvez suivre l'avancée du projet sur : <a href="https://tic-tac-toe-delux
 
 ## Dernier projet réalisé 
 <br/>
-JUIN 2025 - BOUTIQUE KINGSMEN
+JUIN 2025 - BOUTIQUE KINGSMEN<br/>
 <br/>
 Création de la page d'accueil d'une boutique de vêtements pour hommes à Marseille : KINGSMEN (Boutique imaginaire).<br/>
-Le but est de mettre en place un design moderne et agréable, ainsi qu'un site fluide et fonctionnel, pour inciter le visiteur à en savoir plus. Il faut montrer au visiteur le sérieux et l'expérience du personnel de la boutique, ainsi que la qualité des produits.
-<br/>
+Le but est de mettre en place un design moderne et agréable, ainsi qu'un site fluide et fonctionnel, pour inciter le visiteur à en savoir plus.<br/>
+Il faut montrer au visiteur le sérieux et l'expérience du personnel de la boutique, ainsi que la qualité des produits.<br/>
 L'intention est de convaincre le visiteur de venir à la boutique et d'acheter des produits KINGSMEN.
 <br/>
 <br/>
