@@ -4,8 +4,7 @@
 
 
 
-Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de confirmer ma passion par l'obtention d'une certification RNCP de niveau 5, après avoir suivi une formation en 6 mois chez OpenClassrooms. <br/>
-Mon objectif : Créér des sites performants et sécurisés.<br/><br/>
+Je suis un développeur web full-stack. Autodidacte depuis 20 ans, je viens de confirmer ma passion par l'obtention d'une certification RNCP de niveau 5, après avoir suivi une formation en 6 mois chez OpenClassrooms. Mon objectif : Créer des sites performants et sécurisés.<br/><br/>
 Mes domaines d’intervention :<br/>
 - Création de sites web modernes, rapides et sur mesure.
 - Refonte et amélioration de sites existants.
@@ -16,7 +15,7 @@ Mes domaines d’intervention :<br/>
 - Optimisation des performances (vitesse, UX, stabilité).
 - Déploiement et mise en production fiables.
 <br/><br/>
- Vous pourrez trouver ci-dessous quelques unes de mes réalisations.<br/>
+Vous pourrez trouver ici quelques unes de mes réalisations.<br/>
 
 
 ## Mes compétences :trophy:
