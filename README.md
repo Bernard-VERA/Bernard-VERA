@@ -31,7 +31,7 @@ Vous pourrez trouver ici quelques unes de mes réalisations.<br/><br/>
   ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
   ![image](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
   ![image](https://img.shields.io/badge/REST-blue?style=for-the-badge&label=API)
-  ![image](https://img.shields.io/badge/CODING-purple?style=for-the-badge&label=VIBE)
+  ![image](https://img.shields.io/badge/VIBE_CODING-5CD6D4?style=for-the-badge&logoColor=white&labelColor=white&color=0772ED)
   ![image](https://img.shields.io/badge/VERCEL-lightgrey?style=for-the-badge&logo=vercel&logoColor=black)
   ![image](https://img.shields.io/badge/Wordpress-%2321759B?style=for-the-badge&logo=wordpress)
   <br/>
