@@ -9,7 +9,7 @@ Mes domaines d’intervention :<br/>
 - Création de sites web modernes, rapides et sur mesure.
 - Refonte et amélioration de sites existants.
 - Maintenance technique et suivi continu.
-- Optimisation SEO pour améliorer votre visibilité.
+- Optimisation SEO et référencement.
 - Mise en place et gestion de bases de données.
 - Sécurisation de sites et protection des données.
 - Optimisation des performances (vitesse, UX, stabilité).
