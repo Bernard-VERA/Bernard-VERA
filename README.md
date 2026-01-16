@@ -33,7 +33,7 @@ Vous pourrez trouver ici quelques unes de mes réalisations.<br/><br/>
   ![image](https://img.shields.io/badge/REST-blue?style=for-the-badge&label=API)
   ![image](https://img.shields.io/badge/CODING-purple?style=for-the-badge&label=VIBE)
   ![image](https://img.shields.io/badge/VERCEL-lightgrey?style=for-the-badge&logo=vercel&logoColor=black)
-  ![image](https://img.shields.io/badge/Wordpress-Wordpress?style=for-the-badge&logo=wordpress&logoColor=%2321759B&labelColor=F5EEED&color=F5EEED)
+  ![image](https://img.shields.io/badge/Wordpress-%2321759B?style=for-the-badge&logo=wordpress)
   <br/>
   <br/>
 
