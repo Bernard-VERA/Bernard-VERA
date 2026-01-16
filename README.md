@@ -15,7 +15,7 @@ Mes domaines d’intervention :<br/>
 - Optimisation des performances (vitesse, UX, stabilité).
 - Déploiement et mise en production fiables.
 <br/><br/>
-Vous pourrez trouver ici quelques unes de mes réalisations.<br/>
+Vous pourrez trouver ici quelques unes de mes réalisations.<br/><br/>
 
 
 ## Mes compétences :trophy:
