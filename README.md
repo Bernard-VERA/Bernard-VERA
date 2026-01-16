@@ -52,11 +52,11 @@ Vous pourrez trouver ici quelques unes de mes réalisations.<br/><br/>
 DÉCEMBRE 2025 - L'ATELIER PASSION CODE<br/>
 <br/>
 Objectifs du projet<br/>
-WordPress est incontournable dans le monde du web, une part importante des sites étant construits avec ce CMS. J’ai me suis donc lancé dans la création d'un site WordPress afin de renforcer mes compétences. Ce projet me permettra de maîtriser la structure du back office, la gestion des contenus (pages, articles, médias), la configuration des menus et widgets, ainsi que les réglages essentiels liés aux performances, à la sécurité et à l’architecture du thème. Étant basé sur une offre gratuite, le site présente toutefois certaines limitations et inclut de la publicité imposée. <br/>
+WordPress est incontournable dans le monde du web, une part importante des sites étant construits avec ce CMS. Je me suis donc lancé dans la création d'un site WordPress afin de renforcer mes compétences. Ce projet me permettra de maîtriser la structure du back office, la gestion des contenus (pages, articles, médias), la configuration des menus et widgets, ainsi que les réglages essentiels liés aux performances, à la sécurité et à l’architecture du thème. Étant basé sur une offre gratuite, le site présente toutefois certaines limitations et inclut de la publicité imposée. <br/>
 Le sujet du blog est ma formation de Développeur Web.
 <br/>
 <br/>
-Vous pouvez suivre l'avancée du projet sur : <a href="https://bv-tic-tac-toe-deluxe.vercel.app/" target="_blank">Tic-Tac-Toe Deluxe</a>
+Vous pouvez suivre l'avancée du projet sur : <a href="https://passioncodeur.wordpress.com/" target="_blank">L'atelier passion code</a>
 <br/>
 <br/>
 <br/>
@@ -70,7 +70,7 @@ Tic-Tac-Toe Deluxe est une version moderne et interactive du célèbre jeu du mo
 J'avais déjà créé un jeu de morpion simple, mais mes compétences ayant évolué, je le trouve maintenant trop basique. Cette nouvelle version permet de jouer contre un ami, mais aussi contre l'ordinateur, avec plusieurs niveaux de difficultés. Lors de ma veille technologique, j'ai en effet découvert l'algorithme Minimax, qui simule une IA imbattable. Le but était donc de l'intégrer dans le jeu. 
 <br/>
 <br/>
-Vous pouvez voir le projet sur : <a href="https://passioncodeur.wordpress.com/" target="_blank">L'atelier passion code</a>
+Vous pouvez voir le projet sur : <a href="https://bv-tic-tac-toe-deluxe.vercel.app/" target="_blank">Tic-Tac-Toe Deluxe</a>
 <br/>
 <br/>
 
