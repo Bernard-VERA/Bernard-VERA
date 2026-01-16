@@ -49,20 +49,12 @@ Vous pourrez trouver ici quelques unes de mes réalisations.<br/><br/>
 
 ## Projet en cours de réalisation ⚡
 <br/>
-OCTOBRE 2025 - TIC-TAC-TOE DELUXE<br/>
+DÉCEMBRE 2025 - L'ATELIER PASSION CODE<br/>
 <br/>
 Objectifs du projet<br/>
-* Créer un jeu simple mais captivant, accessible depuis le navigateur<br/>
-* Expérimenter avec des outils modernes de développement front-end<br/>
-* Mettre en pratique des concepts d’IA appliqués aux jeux classiques<br/>
+WordPress est incontournable dans le monde du web, une part importante des sites étant construits avec ce CMS. J’ai me suis donc lancé dans la création d'un site WordPress afin de renforcer mes compétences. Ce projet me permettra de maîtriser la structure du back office, la gestion des contenus (pages, articles, médias), la configuration des menus et widgets, ainsi que les réglages essentiels liés aux performances, à la sécurité et à l’architecture du thème. Étant basé sur une offre gratuite, le site présente toutefois certaines limitations et inclut de la publicité imposée. <br/>
+Le sujet du blog est ma formation de Développeur Web.
 <br/>
-Description<br/>
-
-Tic-Tac-Toe Deluxe est une version moderne et interactive du célèbre jeu du morpion. 
-Tu peux y jouer contre un ami en mode 2 joueurs, ou défier l’IA en choisissant différents niveaux de difficulté :<br/>
-* Moyen : IA classique<br/>
-* Pro : IA imbattable grâce à l’algorithme Minimax<br/>
-Ce projet a été conçu pour allier simplicité, performance et plaisir de jeu, tout en mettant en avant des technologies modernes de développement web.<br/>
 <br/>
 Vous pouvez suivre l'avancée du projet sur : <a href="https://bv-tic-tac-toe-deluxe.vercel.app/" target="_blank">Tic-Tac-Toe Deluxe</a>
 <br/>
@@ -72,15 +64,13 @@ Vous pouvez suivre l'avancée du projet sur : <a href="https://bv-tic-tac-toe-de
 
 ## Dernier projet réalisé 
 <br/>
-JUIN 2025 - BOUTIQUE KINGSMEN<br/>
+OCTOBRE 2025 - TIC-TAC-TOE DELUXE<br/>
 <br/>
-Création de la page d'accueil d'une boutique de vêtements pour hommes à Marseille : KINGSMEN (Boutique imaginaire).<br/>
-Le but est de mettre en place un design moderne et agréable, ainsi qu'un site fluide et fonctionnel, pour inciter le visiteur à en savoir plus.<br/>
-Il faut montrer au visiteur le sérieux et l'expérience du personnel de la boutique, ainsi que la qualité des produits.<br/>
-L'intention est de convaincre le visiteur de venir à la boutique et d'acheter des produits KINGSMEN.
+Tic-Tac-Toe Deluxe est une version moderne et interactive du célèbre jeu du morpion. Tu peux y jouer contre un ami en mode 2 joueurs, ou défier l’IA en choisissant différents niveaux de difficulté :<br/>
+J'avais déjà créé un jeu de morpion simple, mais mes compétences ayant évolué, je le trouve maintenant trop basique. Cette nouvelle version permet de jouer contre un ami, mais aussi contre l'ordinateur, avec plusieurs niveaux de difficultés. Lors de ma veille technologique, j'ai en effet découvert l'algorithme Minimax, qui simule une IA imbattable. Le but était donc de l'intégrer dans le jeu. 
 <br/>
 <br/>
-Vous pouvez voir le projet sur : <a href="https://bernard-vera.github.io/boutique-kingsmen/" target="_blank">Boutique KINGSMEN</a>
+Vous pouvez voir le projet sur : <a href="https://passioncodeur.wordpress.com/" target="_blank">L'atelier passion code</a>
 <br/>
 <br/>
 
