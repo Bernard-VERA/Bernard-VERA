@@ -23,7 +23,7 @@ Vous pourrez trouver ici quelques unes de mes réalisations.<br/><br/>
   ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-  ![image](https://img.shields.io/badge/VITE-323330?style=for-the-badge&logo=vite&logoColor=646CFF)
+  ![image](https://img.shields.io/badge/VITE-323330?style=for-the-badge&logo=vite&logoColor=white)
   ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
