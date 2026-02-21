@@ -29,13 +29,12 @@ Vous pourrez trouver ici quelques unes de mes réalisations.<br/><br/>
   ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
   ![image](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=FFFFFF)
   ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
+  ![image](https://img.shields.io/badge/Github%20Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
   ![image](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
   ![image](https://img.shields.io/badge/API_REST-white?style=for-the-badge&logoColor=white&labelColor=white&color=7051ED)
   ![image](https://img.shields.io/badge/VIBE_CODING-5CD6D4?style=for-the-badge&logoColor=white&labelColor=white&color=0772ED)
   ![image](https://img.shields.io/badge/VERCEL-lightgrey?style=for-the-badge&logo=vercel&logoColor=white)
   ![image](https://img.shields.io/badge/Wordpress-%2321759B?style=for-the-badge&logo=wordpress)
-  ![image](https://img.shields.io/badge/Github%20Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
-
   <br/>
   <br/>
 
