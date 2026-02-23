@@ -65,13 +65,14 @@ Vous pouvez suivre l'avancée du projet sur : <a href="https://passioncodeur.wor
 
 ## Dernier projet réalisé 
 <br/>
-OCTOBRE 2025 - TIC-TAC-TOE DELUXE<br/>
+FEVRIER 2026 - TODO LIST DELUXE<br/>
 <br/>
-Tic-Tac-Toe Deluxe est une version moderne et interactive du célèbre jeu du morpion. Tu peux y jouer contre un ami en mode 2 joueurs, ou défier l’IA en choisissant différents niveaux de difficulté :<br/>
-J'avais déjà créé un jeu de morpion simple, mais mes compétences ayant évolué, je le trouve maintenant trop basique. Cette nouvelle version permet de jouer contre un ami, mais aussi contre l'ordinateur, avec plusieurs niveaux de difficultés. Lors de ma veille technologique, j'ai en effet découvert l'algorithme Minimax, qui simule une IA imbattable. Le but était donc de l'intégrer dans le jeu. 
+Ce type de projet est un classique du portfolio d’un développeur web, car il permet de mettre en pratique les bases essentielles du langage.
+J’avais déjà créé une première version il y a 15 mois, mais mon niveau ayant progressé, j’ai souhaité proposer une version plus complète et mieux structurée.
+Cette nouvelle Todo List inclut notamment : la modification d’une tâche existante, la possibilité de marquer une tâche comme réalisée, un message de confirmation avant suppression, une interface plus soignée et plus ergonomique.
 <br/>
 <br/>
-Vous pouvez voir le projet sur : <a href="https://bv-tic-tac-toe-deluxe.vercel.app/" target="_blank">Tic-Tac-Toe Deluxe</a>
+Vous pouvez voir le projet sur : <a href="https://bernard-vera.github.io/Todo-List-Deluxe/" target="_blank">Todo List Deluxe</a>
 <br/>
 <br/>
 
