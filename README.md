@@ -35,6 +35,7 @@ Vous pourrez trouver ici quelques unes de mes réalisations.<br/><br/>
   ![image](https://img.shields.io/badge/VIBE_CODING-5CD6D4?style=for-the-badge&logoColor=white&labelColor=white&color=0772ED)
   ![image](https://img.shields.io/badge/VERCEL-lightgrey?style=for-the-badge&logo=vercel&logoColor=white)
   ![image](https://img.shields.io/badge/Wordpress-%2321759B?style=for-the-badge&logo=wordpress)
+  ![image](https://img.shields.io/badge/Web%20Audio-API-orange?style=for-the-badge)
   <br/>
   <br/>
 
