@@ -46,7 +46,7 @@ Vous pourrez trouver ici quelques unes de mes réalisations.<br/><br/>
   <br/>
   <br/>
   <br/>
-   <br/>
+  <br/>
 
 
 ## Projet en cours de réalisation ⚡
@@ -64,7 +64,21 @@ Vous pouvez suivre l'avancée du projet sur : <a href="https://passioncodeur.wor
 <br/>
 <br/>
 
-## Dernier projet réalisé 
+## Dernier projet réalisé
+<br/>
+MARS 2026 - JEU MEMORY<br/>
+<br/>
+Jeu de Memory développé en HTML, CSS et JavaScript, proposant une expérience fluide, animée et responsive.
+Le but du jeu est de retrouver les paires semblables.<br/>
+L’objectif était de créer un jeu simple mais techniquement propre, structuré et agréable à jouer.
+Le projet inclut trois niveaux de difficulté, des animations visuelles, un compteur de coups, un écran de victoire, et pour la première fois, des effets sonores.
+<br/>
+<br/>
+Vous pouvez voir le projet sur : <a href="https://bernard-vera.github.io/Memory/" target="_blank">Jeu Memory</a>
+<br/>
+<br/>
+
+## Projet précédent 
 <br/>
 FEVRIER 2026 - TODO LIST DELUXE<br/>
 <br/>
