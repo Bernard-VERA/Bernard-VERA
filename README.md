@@ -64,7 +64,7 @@ Vous pouvez suivre l'avancée du projet sur : <a href="https://passioncodeur.wor
 <br/>
 <br/>
 
-## Autre projet en cours de réalisation 
+## Autre projet en cours de réalisation ⚡
 <br/>
 AVRIL 2026 - AUTODÉPENSES<br/>
 <br/>
