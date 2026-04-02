@@ -64,6 +64,29 @@ Vous pouvez suivre l'avancée du projet sur : <a href="https://passioncodeur.wor
 <br/>
 <br/>
 
+## Autre projet en cours de réalisation 
+<br/>
+AVRIL 2026 - AUTODÉPENSES<br/>
+<br/>
+AutoDépenses est une application web en cours de développement visant à centraliser et suivre facilement toutes les dépenses liées à mes véhicules : carburant, entretien, réparations, accessoires, et plus encore. 
+L’objectif est d’offrir une vision claire de l’historique des coûts et d’aider à mieux anticiper les dépenses futures.
+
+Le projet est construit en deux étapes successives :
+
+Création du Frontend — Gestion locale et interface utilisateur
+Application web intuitive permettant d’ajouter, modifier et consulter toutes les dépenses.
+Stockage des données directement dans le localStorage, garantissant une utilisation rapide et sans connexion.
+Interface pensée pour être simple, efficace et agréable à utiliser.
+Création d'un Backend — Authentification et base de données
+Mise en place d’un système d’authentification utilisateur pour sécuriser l’accès aux données.
+Stockage centralisé des dépenses dans une base de données, permettant la synchronisation entre plusieurs appareils.
+API dédiée pour gérer les opérations CRUD et assurer une transition fluide entre la version locale et la version connectée.
+<br/>
+<br/>
+Vous pouvez voir le projet sur : <a href="https://bernard-vera.github.io/autodepenses-frontend/" target="_blank">AutoDépenses</a>
+<br/>
+<br/>
+
 ## Dernier projet réalisé
 <br/>
 MARS 2026 - JEU MEMORY<br/>
@@ -77,20 +100,6 @@ Le projet inclut trois niveaux de difficulté, des animations visuelles, un comp
 Vous pouvez voir le projet sur : <a href="https://bernard-vera.github.io/Memory/" target="_blank">Jeu Memory</a>
 <br/>
 <br/>
-
-## Projet précédent 
-<br/>
-FEVRIER 2026 - TODO LIST DELUXE<br/>
-<br/>
-Ce type de projet est un classique du portfolio d’un développeur web, car il permet de mettre en pratique les bases essentielles du langage.
-J’avais déjà créé une première version il y a 15 mois, mais mon niveau ayant progressé, j’ai souhaité proposer une version plus complète et mieux structurée.
-Cette nouvelle Todo List inclut notamment : la modification d’une tâche existante, la possibilité de marquer une tâche comme réalisée, un message de confirmation avant suppression, une interface plus soignée et plus ergonomique.
-<br/>
-<br/>
-Vous pouvez voir le projet sur : <a href="https://bernard-vera.github.io/Todo-List-Deluxe/" target="_blank">Todo List Deluxe</a>
-<br/>
-<br/>
-
 
 <!--
 **Bernard-VERA/Bernard-VERA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
