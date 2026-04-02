@@ -78,6 +78,7 @@ Le projet est construit en deux étapes successives :
 * Stockage des données directement dans le localStorage, garantissant une utilisation rapide et sans connexion.
 * Interface pensée pour être simple, efficace et agréable à utiliser.
 <br/>
+
 Étape 2 : Création d'un Backend — Authentification et base de données<br/>
 * Mise en place d’un système d’authentification utilisateur pour sécuriser l’accès aux données.
 * Stockage centralisé des dépenses dans une base de données, permettant la synchronisation entre plusieurs appareils.
